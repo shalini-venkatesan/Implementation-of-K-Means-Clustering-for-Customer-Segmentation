@@ -25,7 +25,7 @@ Developed by: SHALINI VENKATESAN
 RegisterNumber: 212222240096
 
 ```
-```c
+```py
 import pandas as pd
 import matplotlib.pyplot as plt
 data = pd.read_csv("/content/Mall_Customers.csv")
