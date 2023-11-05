@@ -68,7 +68,23 @@ plt.scatter(df4["Annual Income (k$)"],df4["Spending Score (1-100)"],c="orange",l
 
 ## Output:
 ![K Means Clustering for Customer Segmentation](sam.png)
+## Data Head:
+![image](https://github.com/shalini-venkatesan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118720291/63a145f7-3215-44af-b536-2652d72c84f0)
 
+## Checking For Null Data:
+![image](https://github.com/shalini-venkatesan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118720291/c2c5a8e4-4801-459d-b2e3-24c8a25eb6f2)
+
+## Data Information:
+![image](https://github.com/shalini-venkatesan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118720291/8a80ac3b-a4b6-418c-bad9-1bb5e4f21922)
+
+## Elbow Method Graph:
+![image](https://github.com/shalini-venkatesan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118720291/017a30c8-2f87-47df-8714-5a7af8b8d707)
+
+## K-means Cluster:
+![image](https://github.com/shalini-venkatesan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118720291/7b40ba79-57ca-4cbc-b28c-f8d2e06fa822)
+
+## Customer Segments Graph:
+![image](https://github.com/shalini-venkatesan/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/118720291/50b1cfd6-0f37-4bde-b176-5f0023106440)
 
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
